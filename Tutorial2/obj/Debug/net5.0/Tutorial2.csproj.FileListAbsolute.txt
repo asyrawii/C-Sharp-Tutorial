@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C-Sharp-Tutorial\Tutorial2\bin\Debug\net5.0\Tutorial2.exe
+C:\Users\User\source\repos\C-Sharp-Tutorial\Tutorial2\bin\Debug\net5.0\Tutorial2.deps.json
+C:\Users\User\source\repos\C-Sharp-Tutorial\Tutorial2\bin\Debug\net5.0\Tutorial2.runtimeconfig.json
+C:\Users\User\source\repos\C-Sharp-Tutorial\Tutorial2\bin\Debug\net5.0\Tutorial2.runtimeconfig.dev.json
+C:\Users\User\source\repos\C-Sharp-Tutorial\Tutorial2\bin\Debug\net5.0\Tutorial2.dll
+C:\Users\User\source\repos\C-Sharp-Tutorial\Tutorial2\bin\Debug\net5.0\ref\Tutorial2.dll
+C:\Users\User\source\repos\C-Sharp-Tutorial\Tutorial2\bin\Debug\net5.0\Tutorial2.pdb
+C:\Users\User\source\repos\C-Sharp-Tutorial\Tutorial2\obj\Debug\net5.0\Tutorial2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C-Sharp-Tutorial\Tutorial2\obj\Debug\net5.0\Tutorial2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C-Sharp-Tutorial\Tutorial2\obj\Debug\net5.0\Tutorial2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C-Sharp-Tutorial\Tutorial2\obj\Debug\net5.0\Tutorial2.AssemblyInfo.cs
+C:\Users\User\source\repos\C-Sharp-Tutorial\Tutorial2\obj\Debug\net5.0\Tutorial2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C-Sharp-Tutorial\Tutorial2\obj\Debug\net5.0\Tutorial2.dll
+C:\Users\User\source\repos\C-Sharp-Tutorial\Tutorial2\obj\Debug\net5.0\ref\Tutorial2.dll
+C:\Users\User\source\repos\C-Sharp-Tutorial\Tutorial2\obj\Debug\net5.0\Tutorial2.pdb
+C:\Users\User\source\repos\C-Sharp-Tutorial\Tutorial2\obj\Debug\net5.0\Tutorial2.genruntimeconfig.cache
