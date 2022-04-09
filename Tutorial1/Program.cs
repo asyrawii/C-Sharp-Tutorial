@@ -7,6 +7,9 @@ namespace Tutorial1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("\nHello World!");
+            Console.WriteLine("\tHello World!");
+            // More documentation at https://docs.microsoft.com/en-us/cpp/c-language/escape-sequences?view=msvc-170
         }
     }
 }
